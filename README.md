@@ -278,20 +278,6 @@ For experimental methodology and quantitative results, please refer to the assoc
 
 ---
 
-## Citation
-
-Citation information for the MOCHA publication will be added following publication.
-
-```bibtex
-@article{mocha,
-  title   = {MOCHA: Modular Continual Hyperdimensional Adaptation},
-  author  = {Citation information to be added},
-  journal = {To appear},
-  year    = {2026}
-}
-```
-
----
 
 ## License
 
